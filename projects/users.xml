@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<users savedWithVersion="17.0.2 SP4">
+	<user>
+		<login>sorenmat</login>
+		<password>passwords are saved outside</password>
+		<user_type>REMOTE</user_type>
+		<real_name>System Administrator</real_name>
+		<user_rights>|Access User List|Edit User Properties|Create User|Rename Category|Edit Model|Read Model|Remove Project|Assign User To Project|Remove User|Read Modules|List Not Assigned Projects|Edit Project Properties|Create Project</user_rights>
+	</user>
+</users>
