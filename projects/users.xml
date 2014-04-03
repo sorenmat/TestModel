@@ -6,6 +6,6 @@
 		<password>passwords are saved outside</password>
 		<user_type>REMOTE</user_type>
 		<real_name>System Administrator</real_name>
-		<user_rights>|Edit User Properties|Access User List|Rename Category|Create User|Edit Model|Remove Project|Read Model|Assign User To Project|Remove User|Read Modules|List Not Assigned Projects|Edit Project Properties|Create Project</user_rights>
+		<user_rights>|Access User List|Edit User Properties|Create User|Rename Category|Edit Model|Read Model|Remove Project|Assign User To Project|Remove User|Read Modules|List Not Assigned Projects|Edit Project Properties|Create Project</user_rights>
 	</user>
 </users>
